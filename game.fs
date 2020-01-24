@@ -1,4 +1,5 @@
 \ Gforth SDL2 Game Starter
+\ To run, install Gforth, then in terminal: gforth sdl2.fs game.fs
 
 require sdl2.fs
 
