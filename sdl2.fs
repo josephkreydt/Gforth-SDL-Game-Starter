@@ -21,6 +21,7 @@ c-function SDL_RenderCopy      SDL_RenderCopy      a a a a -- n
 c-function SDL_RenderPresent   SDL_RenderPresent   a -- void
 c-function SDL_GetTicks        SDL_GetTicks        -- n
 c-function SDL_Delay           SDL_Delay           n -- void
+\ c-function SDL_RenderDrawPoint SDL_RenderDrawPoint a n n -- n
 
 end-c-library
 
